@@ -2,7 +2,7 @@
 
 int main()
 {
-    // 输入数据
+    // 输入数据,0.0f,0.0是double类型,要float类型,就在后面加个f.
     int id=0;
     float c=0.0f;
     float math=0.0f;
